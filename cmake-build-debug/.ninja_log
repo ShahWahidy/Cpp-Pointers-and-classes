@@ -1,0 +1,21 @@
+# ninja log v5
+11	1548	7171513730771891	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1797	2146	7171516810187744	Homework_1.exe	a15ad8d349205be5
+3	1032	7172226733454659	build.ninja	1cbb188156e328d4
+11	1791	7171516806324027	CMakeFiles/Homework_1.dir/functonImplementations.cpp.obj	9c8e08e9ff69ba17
+7	1723	7172238658423108	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1725	2533	7172238666467132	Homework_1.exe	a15ad8d349205be5
+7	1459	7172243310100307	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1461	1892	7172243314336402	Homework_1.exe	a15ad8d349205be5
+7	1272	7172248241872366	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1274	1819	7172248246749679	Homework_1.exe	a15ad8d349205be5
+12	2059	7172250392250872	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+2061	2460	7172250396350126	Homework_1.exe	a15ad8d349205be5
+71	9972	7172917237617206	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+9974	13396	7172917270656107	Homework_1.exe	a15ad8d349205be5
+11	2632	7172928408428272	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+2634	3331	7172928415460773	Homework_1.exe	a15ad8d349205be5
+6	1603	7172929460959855	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1605	1994	7172929464899779	Homework_1.exe	a15ad8d349205be5
+15	1355	7172933030526848	CMakeFiles/Homework_1.dir/main.cpp.obj	4ab6db2efcbedb80
+1357	1665	7172933033635353	Homework_1.exe	a15ad8d349205be5
